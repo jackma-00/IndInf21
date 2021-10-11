@@ -1,0 +1,3 @@
+/cygdrive/c/Users/jacop/Documents/ingegneria informatica/3_Anno/PrimoSemestre/IndustrialInformatics/MyCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/jacop/Documents/ingegneria informatica/3_Anno/PrimoSemestre/IndustrialInformatics/MyCode/cmake-build-debug/CMakeFiles/aabc.dir
+/cygdrive/c/Users/jacop/Documents/ingegneria informatica/3_Anno/PrimoSemestre/IndustrialInformatics/MyCode/cmake-build-debug/CMakeFiles/edit_cache.dir

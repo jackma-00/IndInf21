@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/jacop/Documents/ingegneria informatica/3_Anno/PrimoSemestre/IndustrialInformatics/MyCode/es1.c
+stdio.h
+-
+string.h
+-
+
